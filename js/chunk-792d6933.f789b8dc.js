@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-792d6933"],{9890:function(e,n,t){"use strict";t.r(n);var a=function(){var e=this,n=e.$createElement,a=e._self._c||n;return a("b-img",{attrs:{src:t("fa27"),fluid:"",alt:"Responsive image"}})},i=[],r=t("2b0e"),u=r["default"].extend({name:"rainReportPage",data:function(){return{}}}),s=u,c=t("2877"),l=Object(c["a"])(s,a,i,!1,null,null,null);n["default"]=l.exports},fa27:function(e,n,t){e.exports=t.p+"img/image12.30dfbe77.png"}}]);
+//# sourceMappingURL=chunk-792d6933.f789b8dc.js.map

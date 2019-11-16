@@ -1,2 +1,0 @@
-(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-32974746"],{"440a":function(e,n,t){e.exports=t.p+"img/image11.3af00b91.png"},b4f1:function(e,n,t){"use strict";t.r(n);var a=function(){var e=this,n=e.$createElement,a=e._self._c||n;return a("b-img",{attrs:{src:t("440a"),fluid:"",alt:"Responsive image"}})},i=[],r=t("2b0e"),u=r["default"].extend({name:"rainForecastPage",data:function(){return{}}}),s=u,c=t("2877"),l=Object(c["a"])(s,a,i,!1,null,null,null);n["default"]=l.exports}}]);
-//# sourceMappingURL=chunk-32974746.8403346d.js.map

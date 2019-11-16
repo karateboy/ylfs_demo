@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-5a17a94d"],{"902e":function(e,t,n){e.exports=n.p+"img/cctv_alert.7f55c1ef.png"},c081:function(e,t,n){"use strict";n.r(t);var a=function(){var e=this,t=e.$createElement,a=e._self._c||t;return a("b-img",{attrs:{src:n("902e"),fluid:"",alt:"Responsive image"}})},c=[],r=n("2b0e"),u=r["default"].extend({name:"cctvAlertPage",data:function(){return{}}}),l=u,i=n("2877"),s=Object(i["a"])(l,a,c,!1,null,null,null);t["default"]=s.exports}}]);
+//# sourceMappingURL=chunk-5a17a94d.175bf0f3.js.map
