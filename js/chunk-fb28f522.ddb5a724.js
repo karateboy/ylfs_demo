@@ -1,2 +1,0 @@
-(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-fb28f522"],{"2ecd":function(e,n,t){e.exports=t.p+"img/pond.603a0d6f.png"},d222:function(e,n,t){"use strict";t.r(n);var a=function(){var e=this,n=e.$createElement,a=e._self._c||n;return a("b-img",{attrs:{src:t("2ecd"),fluid:"",alt:"Responsive image"}})},u=[],c=t("2b0e"),d=c["default"].extend({name:"pondPage",data:function(){return{}}}),i=d,o=t("2877"),r=Object(o["a"])(i,a,u,!1,null,null,null);n["default"]=r.exports}}]);
-//# sourceMappingURL=chunk-fb28f522.ddb5a724.js.map

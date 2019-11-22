@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-374ee108"],{"5f17":function(e,n,t){"use strict";t.r(n);var a=function(){var e=this,n=e.$createElement,a=e._self._c||n;return a("b-img",{attrs:{src:t("a447"),fluid:"",alt:"Responsive image"}})},r=[],s=t("2b0e"),u=s["default"].extend({name:"partsPage",data:function(){return{}}}),i=u,c=t("2877"),l=Object(c["a"])(i,a,r,!1,null,null,null);n["default"]=l.exports},a447:function(e,n,t){e.exports=t.p+"img/parts.4d78185f.png"}}]);
+//# sourceMappingURL=chunk-374ee108.94b2478f.js.map
