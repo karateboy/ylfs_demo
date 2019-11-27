@@ -1,7 +1,7 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "041d7719e922520689b6",
-    "url": "/ylfs_demo/css/app.74f17f52.css"
+    "revision": "789b97b1290b469da5f2",
+    "url": "/ylfs_demo/css/app.84aba4cb.css"
   },
   {
     "revision": "bbf0a6c7d23c2d9075c5",
@@ -84,11 +84,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ylfs_demo/img/water_level_detail1.2ad85b64.png"
   },
   {
-    "revision": "b6b9539398ea6766ee27fe0db99bc659",
-    "url": "/ylfs_demo/img/water_level_detail2.b6b95393.png"
-  },
-  {
-    "revision": "64901946fd13ec94f7a22bcdafb6ed97",
+    "revision": "fc466450021678c9923701d9f4d739d0",
     "url": "/ylfs_demo/index.html"
   },
   {
@@ -96,8 +92,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ylfs_demo/js/about.da72af6c.js"
   },
   {
-    "revision": "041d7719e922520689b6",
-    "url": "/ylfs_demo/js/app.da33a615.js"
+    "revision": "789b97b1290b469da5f2",
+    "url": "/ylfs_demo/js/app.c2ee7c11.js"
+  },
+  {
+    "revision": "aef9936868b409686e4e",
+    "url": "/ylfs_demo/js/chunk-098f440f.77889d7c.js"
   },
   {
     "revision": "7c57e77fa6c902f15256",
@@ -158,10 +158,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "447ce51ac45f1ec878db",
     "url": "/ylfs_demo/js/chunk-7b5a1732.b83ab53b.js"
-  },
-  {
-    "revision": "6ec06d4f2f26d9c1da23",
-    "url": "/ylfs_demo/js/chunk-7f6e9f46.8d95392f.js"
   },
   {
     "revision": "eb74bfd4b92775703ef3",
