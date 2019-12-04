@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Portal/precache-manifest.4fa143c1a4f5c58462c1830e0915c98a.js"
+  "/ylfs_demo/precache-manifest.e20c1561b8b21dcef76538cd2369c732.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "ylfs"});
